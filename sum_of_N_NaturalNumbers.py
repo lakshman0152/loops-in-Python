@@ -1,4 +1,4 @@
-print ("SUM OF N NATURAL NUMBERS \n")
+print ("SUM OF STARTING N NATURAL NUMBERS \n")
 
 user_number = input("How many numbers you want to add : ")
 
